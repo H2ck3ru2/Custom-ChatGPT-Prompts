@@ -1,43 +1,33 @@
-### Custom-ChatGPT-Prompts: Custom Prompts for ChatGPT
+## Usage and Credits
 
-### License and Copyright information
+### Usage of Prompts
 
-ATTENTION:
-The copyright of this repository is (C) 2023 H3ck3ru2 and the license holder is also H2ck3ru2
-You are allowed to use every prompt in this GitHub repository, but it would be appreciated if you mention my GitHub username: H2ck3ru2 (Hackerus)
-When you mention my GitHub name, you can also link my GitHub account and this repository into the description of the social media the project has been mentioned
+You are allowed to use every prompt in this GitHub repository. It would be greatly appreciated if you mention my GitHub username: H2ck3ru2 (Hackerus) when you use the prompts. You can link my GitHub account and this repository in the description of the social media post or wherever you mention the project.
 
-You are also allowed to make your own prompts out of my prompts I gave but you should give proper mentioning and credit of my name, GitHub repository and account by
-pasting it into the description of you social media or even the comments so other users could access it. However if you do that and also want to use it in your GitHub
-repository, then you can do that also but you need to provide proper credit and mentioning in EVERY platform you paste it in, like this:
+### Creating Your Own Prompts
 
-This prompt is based on a modification of the prompts from: the author H2ck3ru2, Custom-ChatGPT-Prompts, link to the original author's GitHub repository:
-https://github.com/H2ck3ru2/Custom-ChatGPT-Prompts
+You are also allowed to create your own prompts based on the ones provided in this repository. However, if you modify or derive prompts from the original ones, it is important to give proper credit. When using your own prompts derived from this repository, please include the following credit and mention in the description or comments:
 
-That line above can be said and even written in the description/comments. When it's written somewhere, you should provide infomration how to access it
+"This prompt is based on a modification of the prompts from the author H2ck3ru2, Custom-ChatGPT-Prompts. Link to the original author's GitHub repository: [link](https://github.com/H2ck3ru2/Custom-ChatGPT-Prompts)"
 
-You could read the whole license by accessing the LICENSE.md file
+### License Information
 
-### Project: Prompt usage
+This repository is released under the GNU General Public License (GPL), version 3 (29 June, 2007). You can find the full license text in the [LICENSE.md](LICENSE.md) file. Special thanks to GNU for providing this license.
 
-To use these prompts you should access each text file you want to use the prompt of.
-Each text files will have the prompt, which you can copy and paste into the ChatGPT chat.
-All prompt instructions like how to use and other things are added into the text files where the prompt is.
+### Project Details
 
-MAKE SURE TO USE EACH PROMPT ETHICALLY AND NOT FOR ILLEGAL PURPOSES !!! GENERATING ILLEGAL THINGS ON ChatGPT CAN LEAD TO FINES AND OTHER THINGS ONLY WHEN YOU
-HAVE USED IT ILLEGALLY AND AGAINST CYBER LAWS. MAKE SURE TO ONLY TEST THE EXPLICIT AND ILLEAGL THINGS LIKE MALWARE ON SANDBOX ENVIRONMENTS
+The purpose of this project is to provide prompts for usage with ChatGPT. Each text file in the repository contains a prompt that you can copy and paste into the ChatGPT chat for generating text. Instructions and additional information about each prompt can be found within the respective text files.
 
-### Errors and others
+Please ensure that you use each prompt ethically and avoid generating illegal content. Usage of ChatGPT for illegal purposes can result in fines and other legal consequences. Only test explicit and illegal topics such as malware in sandbox environments.
 
-If you have found any errors that include grammar, code errors in this projects or other projects or even collaboration to make projects for Cybersecurity, hacking,
-malware development and other projects, then please contact this E-Mail address: dmgamehackinghackerus@gmail.com
+### Errors and Collaboration
 
-### Licensing and more Copyright information
+If you encounter any errors, including grammar or code errors in this or other projects, or if you are interested in collaborating on cybersecurity, hacking, malware development, or other related projects, please feel free to contact me at dmgamehackinghackerus@gmail.com.
 
-The license used in the LICENSE.md file is based on the GNU GPL (General Public License) license, version 3 (29 June, 2007). Special Thanks to GNU for making this license
-publicly available to use in all projects and make this project license secured. You can read the whole license in the LICENSE.md file for all information
+### Special Thanks
 
-Special thanks to ChatGPT and OpenAI for making the generation of prompts and also the usage possible. The prompts are made for the users to generate
-better responses and do other things they need without making their own prompts for the ChatGPT language model.
+Special thanks to ChatGPT and OpenAI for making the prompt generation and usage possible. These prompts are designed to enhance the user experience and leverage the capabilities of the ChatGPT language model.
 
-This project is hosted on GitHub. Special thanks to the GitHub project for making this possible and publicly available !!!
+### Hosted on GitHub
+
+This project is hosted on GitHub. Thanks to GitHub for providing a platform for collaboration and making this project publicly available!
