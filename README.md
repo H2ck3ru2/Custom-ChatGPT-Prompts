@@ -1,5 +1,13 @@
 ## Usage and Credits
 
+### NOTE: READ ONLY ACTIVATED
+
+This repository is now in READ ONLY mode !!! You can still view the repository and fork it, but you cannot directly push
+changes or create new branches !!!
+
+If you have questions for the READ ONLY activation mode or about other things, then go to the Errors and collaboration information
+in this README.md file (go down in Errors and collaboration to find the E-Mail address to contact)
+
 ### Usage of Prompts
 
 You are allowed to use every prompt in this GitHub repository. It would be appreciated if you mention my GitHub username: H2ck3ru2 (Hackerus) when you use the prompts. You can link my GitHub account and this repository in the description of the social media post or anywhere you mention the project.
